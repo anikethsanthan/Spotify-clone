@@ -15,3 +15,5 @@ A web-based Spotify clone where users can play songs, adjust volume, toggle play
 - **CSS3:** To style the UI and make it visually appealing.
 - **JavaScript:** Adds interactivity, handling music controls, volume adjustments, and seekbar scrubbing.
 
+## Add all the assets in one single file to get connectivity
+
